@@ -1,0 +1,8 @@
+﻿Token = 7jc1Mjk11M455T12345E4Mzk4NDgx.XSXG8Q.HEsb1A6N1Y1Nl3lGwjt48
+StreamName = Name of your stream
+URL = https://www.twitch.com/cazcez
+
+Do not use quotation marks(") when selecting token
+for getting your discord token
+https://www.youtube.com/watch?v=tI1lzqzLQCs
+for starting to use type "c!start" on a channel

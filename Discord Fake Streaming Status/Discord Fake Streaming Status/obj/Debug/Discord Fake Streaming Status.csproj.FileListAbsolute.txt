@@ -1,0 +1,12 @@
+C:\Users\WINDOWS\source\repos\Discord Fake Streaming Status\Discord Fake Streaming Status\bin\Debug\Discord Fake Streaming Status.exe.config
+C:\Users\WINDOWS\source\repos\Discord Fake Streaming Status\Discord Fake Streaming Status\bin\Debug\Discord Fake Streaming Status.exe
+C:\Users\WINDOWS\source\repos\Discord Fake Streaming Status\Discord Fake Streaming Status\bin\Debug\Discord Fake Streaming Status.pdb
+C:\Users\WINDOWS\source\repos\Discord Fake Streaming Status\Discord Fake Streaming Status\bin\Debug\DSharpPlus.dll
+C:\Users\WINDOWS\source\repos\Discord Fake Streaming Status\Discord Fake Streaming Status\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WINDOWS\source\repos\Discord Fake Streaming Status\Discord Fake Streaming Status\bin\Debug\DSharpPlus.xml
+C:\Users\WINDOWS\source\repos\Discord Fake Streaming Status\Discord Fake Streaming Status\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WINDOWS\source\repos\Discord Fake Streaming Status\Discord Fake Streaming Status\obj\Debug\Discord Fake Streaming Status.csprojAssemblyReference.cache
+C:\Users\WINDOWS\source\repos\Discord Fake Streaming Status\Discord Fake Streaming Status\obj\Debug\Discord Fake Streaming Status.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\source\repos\Discord Fake Streaming Status\Discord Fake Streaming Status\obj\Debug\Discord Fake Streaming Status.csproj.CopyComplete
+C:\Users\WINDOWS\source\repos\Discord Fake Streaming Status\Discord Fake Streaming Status\obj\Debug\Discord Fake Streaming Status.exe
+C:\Users\WINDOWS\source\repos\Discord Fake Streaming Status\Discord Fake Streaming Status\obj\Debug\Discord Fake Streaming Status.pdb
